@@ -52,6 +52,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 ## Selected publications
 <!-- ======-->
+1. An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects. <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. <br />36th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (accepted)
 1. Bayesian Federated Estimation of Causal Effects from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. <br />*38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. <br />[<a href="https://proceedings.mlr.press/v180/vo22a/vo22a.pdf" target="_blank">PDF</a>] [<a href="https://openreview.net/forum?id=BEl3vP8sqlc" target="_blank">OpenReview</a>] [<a href="https://proceedings.mlr.press/v180/vo22a/vo22a-supp.pdf" target="_blank">Supplementary</a>] [<a href="https://github.com/vothanhvinh/FedCI" target="_blank">Code</a>]
 3. Adaptive Multi-Source Causal Inference from Observational Data. <br />**Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong. <br />*31st ACM International Conference on Information and Knowledge Management* (**CIKM**), 2022. (accepted) <br />[<a href="https://arxiv.org/pdf/2105.14877.pdf" target="_blank">PDF</a>] [<a href="https://github.com/vothanhvinh/AdaTRANS" target="_blank">Code</a>]
 4. Transfer Kernel Learning for Multi-source Transfer Regression. <br />Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. <br />*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022. (Impact Factor: 24.314) <br />[<a href="https://ieeexplore.ieee.org/document/9802749" target="_blank">PDF</a>]
@@ -65,7 +66,6 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 <!-- ======-->
 
 1. Bayesian Learning of Causal Structure. (In progress). <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong.
-1. An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects. <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. 
 1. Learning High-dimensional Gaussians from Censored Data. <br />Arnab Bhattacharyya, Constantinos Daskalakis, Themis Gouleakis, **Thanh Vinh Vo**, Wang Yuhao.
 
 
