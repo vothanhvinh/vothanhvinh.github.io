@@ -26,6 +26,10 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 <table style='border:none;font-size: 0.85em;'>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>02 Aug 2022</span></td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects' was accepted to <b>NeurIPS 2022</b>!</td>
+    </tr>
+    <tr style='border:none;'>
+      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>02 Aug 2022</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Adaptive Multi-Source Causal Inference from Observational Data' was accepted to <b>CIKM 2022</b> full paper track!</td>
     </tr>
     <tr style='border:none;'>
