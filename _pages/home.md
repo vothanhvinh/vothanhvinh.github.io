@@ -18,35 +18,35 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 <table style='border:none;font-size: 0.85em;'>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>08 Oct 2022</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I received the <b>NeurIPS 2022 Scholar Award</b>!</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I received the <b>NeurIPS 2022 Scholar Award</b>.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>15 Sep 2022</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects' was accepted to <b>NeurIPS 2022</b>!</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects' was accepted to <b>NeurIPS 2022</b>.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>02 Aug 2022</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Adaptive Multi-Source Causal Inference from Observational Data' was accepted to <b>CIKM 2022</b> full paper track!</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Adaptive Multi-Source Causal Inference from Observational Data' was accepted to <b>CIKM 2022</b> full paper track.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>29 Jul 2022</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I am awarded the <b>Dean's Graduate Research Excellence Award</b>!</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I am awarded the <b>Dean's Graduate Research Excellence Award</b>.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>11 Jun 2022</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Transfer Kernel Learning for Multi-source Transfer Regression' was accepted to <b>IEEE TPAMI</b>!</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Transfer Kernel Learning for Multi-source Transfer Regression' was accepted to <b>IEEE TPAMI</b>.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>16 May 2022</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Bayesian Federated Estimation of Causal Effects from Observational Data' was accepted to <b>UAI 2022</b>!</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Bayesian Federated Estimation of Causal Effects from Observational Data' was accepted to <b>UAI 2022</b>.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0'><span class='date_news'>09 Feb 2022</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I passed my PhD oral defense!</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I passed my PhD oral defense.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0; margin: 0'><span class='date_news'>08 Aug 2021</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0; margin: 0;'>I submitted my PhD thesis!</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0; margin: 0;'>I submitted my PhD thesis.</td>
     </tr>
 </table>
 
