@@ -67,8 +67,6 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 1. Bayesian Learning of Causal Structure. (In progress). <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong.
 2. Hierarchical Reinforcement Learning with Human-AI Collaborative Sub-Goals Optimization. <br /> Haozhe Ma, **Thanh Vinh Vo**, Tze-Yun Leong.
-3. Learning High-dimensional Gaussians from Censored Data. <br />Arnab Bhattacharyya, Constantinos Daskalakis, Themis Gouleakis, **Thanh Vinh Vo**, Wang Yuhao.
-
 
 <!--
 ## Teaching
