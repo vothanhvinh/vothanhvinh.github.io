@@ -81,7 +81,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
 -->
 
 ## Services
-- PC member (reviewer): AISTATS 2022, AISTATS 2023, AAAI 2023.
+- PC member (reviewer): AISTATS 2022, AISTATS 2023, AAAI 2023, UAI 2023.
 - Journal reviewer: Expert Systems with Applications
 
 
