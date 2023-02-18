@@ -70,8 +70,8 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 ## Preprints and work in progress
 <!-- ======-->
 
-1. Bayesian Learning of Causal Structure. (In progress). <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong.
-2. Hierarchical Reinforcement Learning with Human-AI Collaborative Sub-Goals Optimization. <br /> Haozhe Ma, **Thanh Vinh Vo**, Tze-Yun Leong.
+1. A Distribution Over DAGs for Uncertain Causal Discovery. <br />**Thanh Vinh Vo**, Young Lee, Arnab Bhattacharyya, Tze-Yun Leong.
+2. Mixed-Initiative Bayesian Sub-Goal Optimization in Hierarchical Reinforcement Learning. <br /> Haozhe Ma, **Thanh Vinh Vo**, Tze-Yun Leong.
 
 <!--
 ## Teaching
