@@ -90,5 +90,5 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
 - Journal reviewer: Expert Systems with Applications
 
 
-## PhD Thesis
+## PhD thesis
 - Causal Inference from Observational Data <br />Advisor: Professor <a href="https://www.comp.nus.edu.sg/~leongty/" target="_blank">Leong Tze Yun</a>
