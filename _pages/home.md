@@ -17,7 +17,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 <table style='border:none;font-size: 0.85em;'>
     <tr style='border:none;'>
-      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>04 Jan 2023</span></td>
+      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>07 April 2023</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neuronal Populations' was just accepted to <b>CogSci 2023</b>.</td>
     </tr>
     <tr style='border:none;'>
