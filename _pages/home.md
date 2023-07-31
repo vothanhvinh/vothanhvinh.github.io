@@ -48,6 +48,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>16 May 2022</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Bayesian Federated Estimation of Causal Effects from Observational Data' was accepted to <b>UAI 2022</b>.</td>
     </tr>
+  <!--
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0'><span class='date_news'>09 Feb 2022</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I passed my PhD oral defense.</td>
@@ -56,6 +57,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
       <td style='vertical-align: top;border:none;width: 100px;padding: 0; margin: 0'><span class='date_news'>08 Aug 2021</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0; margin: 0;'>I submitted my PhD thesis.</td>
     </tr>
+  -->
 </table>
 
 ## Selected publications
