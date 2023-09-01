@@ -76,9 +76,9 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 ## Preprints and work in progress
 <!-- ======-->
-
-1. A Distribution Over DAGs for Uncertain Causal Discovery. <br />**Thanh Vinh Vo**, Young Lee, Arnab Bhattacharyya, Tze-Yun Leong.
-2. Mixed-Initiative Bayesian Sub-Goal Optimization in Hierarchical Reinforcement Learning. <br /> Haozhe Ma, **Thanh Vinh Vo**, Tze-Yun Leong.
+1. Federated Learning of Causal Effects from Incomplete Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong.
+2. A Distribution Over DAGs for Uncertain Causal Discovery. <br />**Thanh Vinh Vo**, Young Lee, Arnab Bhattacharyya, Tze-Yun Leong.
+3. Mixed-Initiative Bayesian Sub-Goal Optimization in Hierarchical Reinforcement Learning. <br /> Haozhe Ma, **Thanh Vinh Vo**, Tze-Yun Leong.
 
 <!--
 ## Teaching
@@ -88,7 +88,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
 -->
 
 ## Services
-- PC member (reviewer): AISTATS 2022, AISTATS 2023, AISTATS 2024, AAAI 2023, AAAI 2024, UAI 2023, NeurIPS 2023.
+- PC member (reviewer): AISTATS 2022, AISTATS 2023, AISTATS 2024, AAAI 2023, AAAI 2024, UAI 2023, ICLR 2024, NeurIPS 2023.
 - Journal reviewer: Expert Systems with Applications
 
 <!--
