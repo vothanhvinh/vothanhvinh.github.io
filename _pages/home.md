@@ -76,7 +76,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 ## Preprints and work in progress
 <!-- ======-->
-1. Federated Learning of Causal Effects from Incomplete Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong.
+1. Federated Learning of Causal Effects from Incomplete Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v1.pdf" target="_blank">PDF</a>]
 2. A Distribution Over DAGs for Uncertain Causal Discovery. <br />**Thanh Vinh Vo**, Young Lee, Arnab Bhattacharyya, Tze-Yun Leong.
 3. Mixed-Initiative Bayesian Sub-Goal Optimization in Hierarchical Reinforcement Learning. <br /> Haozhe Ma, **Thanh Vinh Vo**, Tze-Yun Leong.
 
