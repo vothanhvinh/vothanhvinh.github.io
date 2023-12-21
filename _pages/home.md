@@ -18,7 +18,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 <table style='border:none;font-size: 0.85em;'>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>21 Dec 2023</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper ' Mixed-Initiative Bayesian Sub-Goal Optimization in Hierarchical Reinforcement Learning' was just accepted to <b>AAMAS 2024</b> as a full paper publication.</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Mixed-Initiative Bayesian Sub-Goal Optimization in Hierarchical Reinforcement Learning' was just accepted to <b>AAMAS 2024</b> as a full paper publication.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>07 Apr 2023</span></td>
