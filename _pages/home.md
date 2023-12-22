@@ -68,11 +68,6 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 <!-- ======-->
 1. Mixed-Initiative Bayesian Sub-Goal Optimization in Hierarchical Reinforcement Learning. <br /> Haozhe Ma, **Thanh Vinh Vo**, Tze-Yun Leong. <br />*23rd International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), 2024. <br />(full paper)
 2. Hierarchical Reinforcement Learning with Human-AI Collaborative Sub-Goals Optimization. <br /> Haozhe Ma, **Thanh Vinh Vo**, Tze-Yun Leong. <br />*22nd International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), 2023. <br />(extended abstract) <br />[<a href="https://dl.acm.org/doi/abs/10.5555/3545946.3598917" target="_blank">PDF</a>]
-
-<!--
-3. Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neuronal Populations. <br /> Evangelos Sigalas, **Thanh Vinh Vo**, Tze-Yun Leong, Camilo Libedinsky. <br />*45th Annual Meeting of the Cognitive Science Society* (**CogSci**), 2023. <br />(full paper) <br />[<a href="https://escholarship.org/uc/item/3r68f33q" target="_blank">PDF</a>]
--->
-
 3. An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects. <br />**Thanh Vinh Vo**, Arnab Bhattacharyya, Young Lee, Tze-Yun Leong. <br />*36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022.<br /> [<a href="https://openreview.net/pdf?id=fJt2KFnRqZ" target="_blank">PDF</a>] [<a href="https://openreview.net/forum?id=fJt2KFnRqZ" target="_blank">OpenReview</a>] [<a href="https://openreview.net/attachment?id=fJt2KFnRqZ&name=supplementary_material" target="_blank">Supplementary</a>] [<a href="https://vothanhvinh.github.io/files/CausalRFF_NeurIPS2022_short_slides.pdf" target="_blank">Slides</a>] [<a href="https://vothanhvinh.github.io/files/CausalRFF_NeurIPS_2022_Poster_A0.pdf" target="_blank">Poster</a>] [<a href="https://github.com/vothanhvinh/CausalRFF" target="_blank">Code</a>]
 4. Bayesian Federated Estimation of Causal Effects from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Trong Nghia Hoang, Tze-Yun Leong. <br />*38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022. <br />[<a href="https://proceedings.mlr.press/v180/vo22a/vo22a.pdf" target="_blank">PDF</a>] [<a href="https://openreview.net/forum?id=BEl3vP8sqlc" target="_blank">OpenReview</a>] [<a href="https://proceedings.mlr.press/v180/vo22a/vo22a-supp.pdf" target="_blank">Supplementary</a>] [<a href="https://github.com/vothanhvinh/FedCI" target="_blank">Code</a>]
 5. Adaptive Multi-Source Causal Inference from Observational Data. <br />**Thanh Vinh Vo**, Pengfei Wei, Trong Nghia Hoang, Tze-Yun Leong. <br />*31st ACM International Conference on Information and Knowledge Management* (**CIKM**), 2022. <br />(full paper track)<br />[<a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557230" target="_blank">PDF</a>] [<a href="https://vothanhvinh.github.io/files/AdaTRANS_CIKM2022_slides.pdf" target="_blank">Slides</a>]  [<a href="https://github.com/vothanhvinh/AdaTRANS" target="_blank">Code</a>]
@@ -82,6 +77,9 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 9. Z-Transforms and its Inference on Partially Observable Point Processes. <br />Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, Harold Soh. <br />*27th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018. <br />[<a href="https://www.ijcai.org/proceedings/2018/0328.pdf" target="_blank">PDF</a>]
 10. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. <br />**Thanh Vinh Vo**, Harold Soh. <br />*ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)* <br />
 11. Instance Reduction for Time Series Classification using MDL Principle. <br />**Thanh Vinh Vo**, Duong Tuan Anh. <br />*Intelligent Data Analysis 21(3)*, IOS Press, 2017.
+<!--
+3. Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neuronal Populations. <br /> Evangelos Sigalas, **Thanh Vinh Vo**, Tze-Yun Leong, Camilo Libedinsky. <br />*45th Annual Meeting of the Cognitive Science Society* (**CogSci**), 2023. <br />(full paper) <br />[<a href="https://escholarship.org/uc/item/3r68f33q" target="_blank">PDF</a>]
+-->
 
 ## Preprints and work in progress
 <!-- ======-->
