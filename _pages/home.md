@@ -77,8 +77,9 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 9. Z-Transforms and its Inference on Partially Observable Point Processes. <br />Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, Harold Soh. <br />*27th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018. <br />[<a href="https://www.ijcai.org/proceedings/2018/0328.pdf" target="_blank">PDF</a>]
 10. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. <br />**Thanh Vinh Vo**, Harold Soh. <br />*ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)* <br />
 11. Instance Reduction for Time Series Classification using MDL Principle. <br />**Thanh Vinh Vo**, Duong Tuan Anh. <br />*Intelligent Data Analysis 21(3)*, IOS Press, 2017.
+
 <!--
-3. Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neuronal Populations. <br /> Evangelos Sigalas, **Thanh Vinh Vo**, Tze-Yun Leong, Camilo Libedinsky. <br />*45th Annual Meeting of the Cognitive Science Society* (**CogSci**), 2023. <br />(full paper) <br />[<a href="https://escholarship.org/uc/item/3r68f33q" target="_blank">PDF</a>]
+Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neuronal Populations. <br /> Evangelos Sigalas, **Thanh Vinh Vo**, Tze-Yun Leong, Camilo Libedinsky. <br />*45th Annual Meeting of the Cognitive Science Society* (**CogSci**), 2023. <br />(full paper) <br />[<a href="https://escholarship.org/uc/item/3r68f33q" target="_blank">PDF</a>]
 -->
 
 ## Preprints and work in progress
