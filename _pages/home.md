@@ -96,7 +96,14 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
 -->
 
 ## Services
-- PC member (reviewer): AISTATS 2022, 2023, 2024 &#8212; AAAI 2023, 2024 &#8212; UAI 2023, 2024 &#8212; ICLR 2024 &#8212; IJCAI 2024 &#8212; KDD 2024 &#8212; NeurIPS 2023.
+- PC member (reviewer):
+    * AISTATS 2022, 2023, 2024
+    * AAAI 2023, 2024
+    * UAI 2023, 2024
+    * ICLR 2024
+    * IJCAI 2024
+    * KDD 2024
+    * NeurIPS 2023
 - Journal reviewer: Expert Systems with Applications
 
 <!--
