@@ -20,7 +20,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Reward Shaping for Reinforcement Learning with An Assistant Reward Agent' was just accepted to <b>ICML 2024</b>.</td>
     </tr>
     <tr style='border:none;'>
-      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>26 April 2024</span></td>
+      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>26 Apr 2024</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'RDecoupled Prompt-Adapter Tuning for Continual Activity Recognition' was just accepted to <b>CoLLAs 2024</b>.</td>
     </tr>
     <tr style='border:none;'>
