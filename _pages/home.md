@@ -49,7 +49,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>29 Jul 2022</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I am awarded the <b> <a href="https://www.comp.nus.edu.sg/programmes/pg/awards/deans/" target="_blank">Dean's Graduate Research Excellence Award</a></b>.</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>I am awarded the <b> <a href="https://www.comp.nus.edu.sg/programmes/pg/awards/deans-research/" target="_blank">Dean's Graduate Research Excellence Award</a></b>.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>11 Jun 2022</span></td>
