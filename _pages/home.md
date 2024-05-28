@@ -115,7 +115,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
     <li>IJCAI 2024</li>
     <li>KDD 2024</li>
   </ul>
-  <li>Journal reviewer: Expert Systems with Applications</li>
+  <li>Journal reviewer: Expert Systems with Applications, Computers & Industrial Engineering.</li>
 </ul>
 
 
