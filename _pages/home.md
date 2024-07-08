@@ -113,7 +113,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
     <li>AAAI 2023, 2024, 2025</li>
     <li>AISTATS 2022, 2023, 2024</li>
     <li>IJCAI 2024</li>
-    <li>KDD 2024</li>
+    <li>KDD 2024, Aug 2024, Jan 2025</li>
   </ul>
   <li>Journal reviewer: Expert Systems with Applications, Computers & Industrial Engineering.</li>
 </ul>
