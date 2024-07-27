@@ -70,6 +70,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
     </tr>
   -->
 </table>
+
 ## Selected publications
 <!-- ======-->
 1. Reward Shaping for Reinforcement Learning with An Assistant Reward Agent. <br />Haozhe Ma, Kuankuan Sima, **Thanh Vinh Vo**, Di Fu, Tze-Yun Leong. <br />*41st International Conference on Machine Learning* (**ICML**), 2024. <br />[<a href="https://raw.githubusercontent.com/mlresearch/v235/main/assets/ma24l/ma24l.pdf" target="_blank">PDF</a>] [<a href="https://openreview.net/forum?id=a3XFF0PGLU" target="_blank">OpenReview</a>]
