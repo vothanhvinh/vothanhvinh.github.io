@@ -105,7 +105,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
 
 ## Services
 <ul>
-  <li>PC member (reviewer):</li>
+  <li>Reviewer/PC member:</li>
   <ul style='font-size=1em; color: #494e52;'>
     <li>NeurIPS 2023</li>
     <li>ICLR 2024</li>
