@@ -94,7 +94,7 @@ Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neurona
 <!-- ======-->
 1. Self-supervised Mask Graph Autoencoder via Neighbor Reconstruction for Graphs with Heterophily. <br />Jiele Wu, **Thanh Vinh Vo**, Tze-Yun Leong.
 2. Highly Efficient Self-Adaptive Reward Shaping for Reinforcement Learning. <br />Haozhe Ma, Zhengding Luo, **Thanh Vinh Vo**, Kuankuan Sima, Tze-Yun Leong.
-3. Federated Learning of Causal Effects from Incomplete Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v1.pdf" target="_blank">PDF</a>]
+3. Federated Causal Inference from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v1.pdf" target="_blank">PDF</a>]
 4. A Distribution Over DAGs for Uncertain Causal Discovery. <br />**Thanh Vinh Vo**, Young Lee, Arnab Bhattacharyya, Tze-Yun Leong.
 
 <!--
