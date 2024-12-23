@@ -117,7 +117,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
     <li>AAMAS 2025</li>
     <li>KDD 2024, 2025</li>
   </ul>
-  <li>Journal reviewer: Expert Systems with Applications, Computers & Industrial Engineering.</li>
+  <li>Journal reviewer: Expert Systems with Applications</li> <!-- Computers & Industrial Engineering-->
 </ul>
 
 
