@@ -16,7 +16,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 ## News
 <table style='border:none;font-size: 0.85em;'>
     <tr style='border:none;'>
-      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>02 May 2024</span></td>
+      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>23 Jan 2025</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Highly Efficient Self-Adaptive Reward Shaping for Reinforcement Learning' was just accepted to <b>ICLR 2025</b>.</td>
     </tr>
     <tr style='border:none;'>
