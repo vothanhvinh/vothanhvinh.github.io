@@ -112,7 +112,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
 <ul>
   <li>Reviewer/PC member:</li>
   <ul style='font-size=1em; color: #494e52;'>
-    <li>NeurIPS 2023</li>
+    <li>NeurIPS 2023, 2025</li>
     <li>ICLR 2024, 2025</li>
     <li>UAI 2023, 2024, 2025</li>
     <li>AAAI 2023, 2024, 2025</li>
