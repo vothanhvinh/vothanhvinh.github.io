@@ -92,10 +92,15 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 9. Transfer Kernel Learning for Multi-source Transfer Regression. <br />Pengfei Wei, **Thanh Vinh Vo**, Xinghua Qu, Yew Soon Ong, Zejun Ma. <br />*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022. (Impact Factor: 24.314) <br />[<a href="https://ieeexplore.ieee.org/document/9802749" target="_blank">PDF</a>]
 10. Causal Modeling with Stochastic Confounders. <br />**Thanh Vinh Vo**, Pengfei Wei, Wicher Bergsma, Tze-Yun Leong. <br />*24th International Conference on Artificial Intelligence and Statistics* (**AISTATS**), 2021. <br />[<a href="http://proceedings.mlr.press/v130/vinh-vo21a/vinh-vo21a.pdf" target="_blank">PDF</a>] [<a href="http://proceedings.mlr.press/v130/vinh-vo21a/vinh-vo21a-supp.pdf" target="_blank">Supplementary</a>] [<a href="https://github.com/vothanhvinh/CausalSC" target="_blank">Code</a>]
 11. Z-Transforms and its Inference on Partially Observable Point Processes. <br />Young Lee, **Thanh Vinh Vo**, Kar Wai Lim, Harold Soh. <br />*27th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2018. <br />[<a href="https://www.ijcai.org/proceedings/2018/0328.pdf" target="_blank">PDF</a>]
-12. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. <br />**Thanh Vinh Vo**, Harold Soh. <br />*ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)* <br />
+
+<!--
+13. Generation Meets Recommendation: Proposing Novel Items for Groups of Users. <br />**Thanh Vinh Vo**, Harold Soh. <br />*ACM Recommender Systems Conference* (**RecSys**), 2018. *(Best Long Paper Award Runner-up)* <br />
+-->
+
 <!--
 13. Instance Reduction for Time Series Classification using MDL Principle. <br />**Thanh Vinh Vo**, Duong Tuan Anh. <br />*Intelligent Data Analysis 21(3)*, IOS Press, 2017.
 -->
+
 <!--
 Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neuronal Populations. <br /> Evangelos Sigalas, **Thanh Vinh Vo**, Tze-Yun Leong, Camilo Libedinsky. <br />*45th Annual Meeting of the Cognitive Science Society* (**CogSci**), 2023. <br />(full paper) <br />[<a href="https://escholarship.org/uc/item/3r68f33q" target="_blank">PDF</a>]
 -->
