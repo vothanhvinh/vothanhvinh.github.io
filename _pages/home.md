@@ -131,7 +131,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
     <li>KDD 2024, 2025</li>
     <li>ECAI 2025</li>
   </ul>
-  <li>Journal reviewer: Neural Networks, Expert Systems with Applications</li> <!-- Computers & Industrial Engineering-->
+  <li>Journal reviewer: Neural Networks, Knowledge-Based Systems, Expert Systems with Applications</li> <!-- Computers & Industrial Engineering-->
 </ul>
 
 
