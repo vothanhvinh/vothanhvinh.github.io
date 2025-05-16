@@ -104,11 +104,14 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 <!--
 Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neuronal Populations. <br /> Evangelos Sigalas, **Thanh Vinh Vo**, Tze-Yun Leong, Camilo Libedinsky. <br />*45th Annual Meeting of the Cognitive Science Society* (**CogSci**), 2023. <br />(full paper) <br />[<a href="https://escholarship.org/uc/item/3r68f33q" target="_blank">PDF</a>]
 -->
+	
 
 ## Preprints and work in progress
 <!-- ======-->
-1. Federated Causal Inference from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v2" target="_blank">PDF</a>]
-2. A Distribution Over DAGs for Uncertain Causal Discovery. <br />**Thanh Vinh Vo**, Young Lee, Arnab Bhattacharyya, Tze-Yun Leong.
+1. Causal Policy Learning in Reinforcement Learning: Backdoor-Adjusted Soft Actor-Critic. <br />**Thanh Vinh Vo**, Young Lee, Haozhe Ma, Chien Lu, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v2" target="_blank">PDF</a>]
+2. Centralized Reward Agent for Knowledge Sharing and Transfer in Multi-Task Reinforcement Learning. <br />Haozhe Ma, Zhengding Luo, **Thanh Vinh Vo**, Kuankuan Sima, Tze-Yun Leong. <br />
+3. Federated Causal Inference from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v2" target="_blank">PDF</a>]
+4. A Distribution Over DAGs for Uncertain Causal Discovery. <br />**Thanh Vinh Vo**, Young Lee, Arnab Bhattacharyya, Tze-Yun Leong.
 
 <!--
 ## Teaching
