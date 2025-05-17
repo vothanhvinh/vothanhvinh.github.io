@@ -109,7 +109,7 @@ Discovering Low-Dimensional Causal Pathways between Multiple Interacting Neurona
 
 ## Preprints and work in progress
 <!-- ======-->
-1. Causal Policy Learning in Reinforcement Learning: Backdoor-Adjusted Soft Actor-Critic. <br />**Thanh Vinh Vo**, Young Lee, Haozhe Ma, Chien Lu, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v2" target="_blank">PDF</a>]
+1. Causal Policy Learning in Reinforcement Learning: Backdoor-Adjusted Soft Actor-Critic. <br />**Thanh Vinh Vo**, Young Lee, Haozhe Ma, Chien Lu, Tze-Yun Leong. <br />
 2. Centralized Reward Agent for Knowledge Sharing and Transfer in Multi-Task Reinforcement Learning. <br />Haozhe Ma, Zhengding Luo, **Thanh Vinh Vo**, Kuankuan Sima, Tze-Yun Leong. <br />
 3. Federated Causal Inference from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v2" target="_blank">PDF</a>]
 4. A Distribution Over DAGs for Uncertain Causal Discovery. <br />**Thanh Vinh Vo**, Young Lee, Arnab Bhattacharyya, Tze-Yun Leong.
