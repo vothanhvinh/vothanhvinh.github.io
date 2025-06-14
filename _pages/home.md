@@ -17,7 +17,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 <table style='border:none;font-size: 0.85em;'>
     <tr style='border:none;'>
-      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>01 May 2025</span></td>
+      <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>14 Jun 2025</span></td>
       <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Federated Causal Inference from Observational Data' was just accepted to <b><a href="[https://www.comp.nus.edu.sg/programmes/pg/awards/deans-research/](https://link.springer.com/journal/10994)" target="_blank">Machine Learning</a></b> journal (Springer).</td>
     </tr>
     <tr style='border:none;'>
@@ -86,7 +86,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 
 ## Selected publications
 <!-- ======-->
-1. Federated Causal Inference from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong. <br />[<a href="https://arxiv.org/pdf/2308.13047v2" target="_blank">PDF</a>]
+1. Federated Causal Inference from Observational Data. <br />**Thanh Vinh Vo**, Young Lee, Tze-Yun Leong. <br />**Machine Learning** (Springer)<br />[<a href="https://arxiv.org/pdf/2308.13047v2" target="_blank">PDF</a>]
 2. Catching Two Birds with One Stone: Reward Shaping with Dual Random Networks for Balancing Exploration and Exploitation. <br /> Haozhe Ma, Fangling Li, Jing Yu Lim, Zhengding Luo, **Thanh Vinh Vo**, Tze-Yun Leong. <br />*42nd International Conference on Machine Learning* (**ICML**), 2025.<br /> 
 3. Highly Efficient Self-Adaptive Reward Shaping for Reinforcement Learning. <br />Haozhe Ma, Zhengding Luo, **Thanh Vinh Vo**, Kuankuan Sima, Tze-Yun Leong. <br />*International Conference on Learning Representations* (**ICLR**), 2025. <br /> [<a href="https://arxiv.org/pdf/2408.03029" target="_blank">PDF</a>] [<a href="https://openreview.net/forum?id=QOfWubPhdS" target="_blank">OpenReview</a>]
 4. Reward Shaping for Reinforcement Learning with An Assistant Reward Agent. <br />Haozhe Ma, Kuankuan Sima, **Thanh Vinh Vo**, Di Fu, Tze-Yun Leong. <br />*41st International Conference on Machine Learning* (**ICML**), 2024. <br />[<a href="https://raw.githubusercontent.com/mlresearch/v235/main/assets/ma24l/ma24l.pdf" target="_blank">PDF</a>] [<a href="https://openreview.net/forum?id=a3XFF0PGLU" target="_blank">OpenReview</a>]
