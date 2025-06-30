@@ -126,9 +126,9 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
 - Data structures and algorithms
 -->
 
-## Services
+## Academic Services
 <ul>
-  <li>Reviewer/PC member:</li>
+  <li>Conference reviewer/PC member:</li>
   <ul style='font-size=1em; color: #494e52;'>
     <li>NeurIPS 2023, 2025</li>
     <li>ICLR 2024, 2025</li>
@@ -140,7 +140,14 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
     <li>KDD 2024, 2025</li>
     <li>ECAI 2025</li>
   </ul>
-  <li>Journal reviewer: Neural Networks, Knowledge-Based Systems, Expert Systems with Applications, ACM Transactions on Intelligent Systems and Technology, Computers & Industrial Engineering</li>
+  <li>Journal reviewer:</li>
+  <ul style='font-size=1em; color: #494e52;'>
+    <li>Neural Networks</li>
+    <li>Knowledge-Based Systems</li>
+    <li>Expert Systems with Applications</li>
+    <li>ACM Transactions on Intelligent Systems and Technology</li>
+    <li>Computers & Industrial Engineering</li>
+  </ul>
 </ul>
 
 
