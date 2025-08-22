@@ -134,7 +134,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
     <li>ICLR 2024, 2025</li>
     <li>UAI 2023, 2024, 2025</li>
     <li>AAAI 2023, 2024, 2025, 2026</li>
-    <li>AISTATS 2022, 2023, 2024, 2025</li>
+    <li>AISTATS 2022, 2023, 2024, 2025, 2026</li>
     <li>IJCAI 2024, 2025</li>
     <li>AAMAS 2025</li>
     <li>KDD 2024, 2025</li>
