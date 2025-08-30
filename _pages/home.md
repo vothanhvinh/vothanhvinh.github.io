@@ -142,6 +142,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
   </ul>
   <li>Journal reviewer:</li>
   <ul style='font-size=1em; color: #494e52;'>
+	<li>Neurocomputing</li>
     <li>Neural Networks</li>
     <li>Knowledge-Based Systems</li>
     <li>Expert Systems with Applications</li>
