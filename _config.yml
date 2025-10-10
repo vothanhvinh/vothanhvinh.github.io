@@ -86,7 +86,7 @@ author:
   location         : "Singapore"
   employer         :
   pubmed           : #"#"
-  googlescholar    : #"#"
+  googlescholar    : "https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en"
   email            : "votv@comp.nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
