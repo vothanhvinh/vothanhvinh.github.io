@@ -18,7 +18,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
 <table style='border:none;font-size: 0.85em;'>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>19 Sep 2025</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Centralized Reward Agent for Knowledge Sharing and Transfer in Multi-Task Reinforcement Learning' was just accepted to <b>NeurIPS 2025</a></b>.</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Centralized Reward Agent for Knowledge Sharing and Transfer in Multi-Task Reinforcement Learning' was just accepted to <b>NeurIPS 2025</b>.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>14 Jun 2025</span></td>
