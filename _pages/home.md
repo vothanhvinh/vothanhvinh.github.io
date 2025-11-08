@@ -22,7 +22,7 @@ I completed my PhD in computer science at the NUS on problems related to causal 
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>14 Jun 2025</span></td>
-      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Federated Causal Inference from Observational Data' was just accepted to <b><a href="https://link.springer.com/journal/10994" target="_blank">Machine Learning</a></b> journal (Springer).</td>
+      <td align="left" style='vertical-align: top;border:none;padding: 0px 0px 4px 0px; margin: 0;'>Our paper 'Federated Causal Inference from Observational Data' was just accepted to <b><a href="https://link.springer.com/journal/10994" target="_blank">Machine Learning</a></b>.</td>
     </tr>
     <tr style='border:none;'>
       <td style='vertical-align: top;border:none;width: 100px;padding: 0px 0px 4px 0px; margin: 0;'><span class='date_news'>01 May 2025</span></td>
