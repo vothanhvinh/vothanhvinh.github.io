@@ -133,8 +133,10 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
 ## Academic Services
 <ul>
   <li>Area Chair:</li>
+  <ul style='font-size=1em; color: #494e52;'>
 	<li>ICLR 2027</li>
 	<li>ICML 2027</li>
+    </ul>
   <li>Conference reviewer/PC member:</li>
   <ul style='font-size=1em; color: #494e52;'>
     <li>NeurIPS 2023, 2025, 2026</li>
