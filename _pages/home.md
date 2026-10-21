@@ -153,6 +153,7 @@ GAP teaching assistant at National University of Singapore, 2017-2020.
   <ul style='font-size=1em; color: #494e52;'>
 	<li>Neurocomputing</li>
     <li>Neural Networks</li>
+	<li>Data Mining and Knowledge Discovery</li>
     <li>Knowledge-Based Systems</li>
     <li>Expert Systems with Applications</li>
     <li>ACM Transactions on Intelligent Systems and Technology</li>
